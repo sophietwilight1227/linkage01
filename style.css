@@ -16,4 +16,5 @@ textarea {
     min-height: 100px; /* 高さの最小値を指定（任意） */
     width: 100%;
     background-color: transparent;
+    white-space: nowrap;
   }
